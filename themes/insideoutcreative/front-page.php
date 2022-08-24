@@ -1,9 +1,5 @@
 <?php get_header();
 
-if(is_user_logged_in()){
-    echo '<div>hello</div>';
-}
-
 // start of projects
 if(have_rows('past_projects')): while(have_rows('past_projects')): the_row();
 $bgImg = get_sub_field('background_image');
