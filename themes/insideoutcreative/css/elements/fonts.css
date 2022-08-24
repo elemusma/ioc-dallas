@@ -1,0 +1,126 @@
+/* .text-white * {
+  color: white;
+}
+
+.text-white a:hover {
+  color: white;
+}
+
+.text-accent {
+  color: #0f2849;
+}
+
+.text-accent-light {
+  color: #4694a7;
+}
+
+.text-accent-orange {
+  color: var(--accent-orange);
+}
+
+.text-gray {
+  color: #585556;
+}
+
+.text-shadow {
+  text-shadow: 1px 1px 1px black;
+}
+
+.text-black {
+  color: black;
+}
+
+a.text-black:hover {
+  color: black;
+}
+
+.lh-1 {
+  line-height: 1;
+}
+
+.ls-1 {
+  letter-spacing: 1em;
+}
+
+.nowrap {
+  white-space: nowrap;
+}
+
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
+  font-family: var(--font-bold);
+}
+
+html,
+body {
+  font-family: var(--font-main);
+}
+
+.light {
+  font-family: var(--font-main-light);
+}
+
+.thin {
+  font-family: var(--font-main-thin);
+}
+
+strong,
+b,
+.bold {
+  font-family: var(--font-main-bold);
+}
+
+blockquote {
+  font-size: 90%;
+}
+
+.aspira-bold {
+  font-family: var(--font-bold);
+} */
+
+
+/* start of fonts */
+html,
+body,
+a,
+p,
+span,
+strong,
+ul,
+li,
+div,
+em {
+  font-family: var(--proxima-regular);
+}
+
+.bold {
+  font-family: var(--proxima-bold);
+}
+
+.text-accent-blue-light {
+  color: var(--blue-light);
+}
+
+.text-accent {
+  color: var(--accent-blue);
+}
+
+.aspira-black {
+  font-family: var(--aspira-black);
+}
+
+.aspira-bold {
+  font-family: var(--aspira-bold);
+}
+
+/* end of fonts */
